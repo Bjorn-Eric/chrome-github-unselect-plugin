@@ -1,4 +1,4 @@
-# chrome-github-unselect-plugin
+# Github PR file toggle
 
 A simple Chrome extension to quickly select or unselect all files in a GitHub pull request.
 
