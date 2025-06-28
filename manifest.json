@@ -4,7 +4,7 @@
     "scripting",
     "tabs"
   ],
-  "description": "With this",
+  "description": "Simple chrome extension to toggle all github pr files as viewed/not viewed",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
