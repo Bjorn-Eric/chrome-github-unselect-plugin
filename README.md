@@ -22,7 +22,7 @@ A simple Chrome extension to quickly select or unselect all files in a GitHub pu
 
 ## Development
 
-- Source code is in JavaScript (or TypeScript if configured).
+- Source code is in JavaScript.
 - Update the manifest and scripts as needed.
 - Pull requests and issues are welcome.
 
