@@ -1,0 +1,25 @@
+{
+  "name": "Github file unselect",
+  "permissions": [
+    "scripting",
+    "tabs"
+  ],
+  "description": "With this",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/content.js"
+      ],
+      "matches": [
+        "https://github.com/*/*/pull/*/files",
+        "https://github.com/*/pull/*/files"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
